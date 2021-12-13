@@ -1,0 +1,108 @@
+#webtoon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+
+audio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.music1 {
+background-position: center;
+padding-top:200px;
+padding-bottom: 200px;
+justify-content: center;
+align-items: center;
+}
+
+.music2 {
+background-position: center;
+padding-top:50px;
+padding-bottom: 50px;
+justify-content: center;
+align-items: center;
+}
+
+.music3 {
+background-position: center;
+padding-top:3000px;
+padding-bottom: 3000px;
+justify-content: center;
+align-items: center;
+}
+
+.music4 {
+background-position: center;
+padding-top:3100px;
+padding-bottom: 3100px;
+justify-content: center;
+align-items: center;
+}
+
+.bande1 {
+background-image : url("AxoBande1.jpg");
+background-position: top center;
+background-repeat: no-repeat;
+min-width: 600px;
+min-height: 10240px;
+}
+
+.bande2 {
+background-image : url("AxoBande2.jpg");
+background-position: 352px 0px ;
+background-repeat: no-repeat;
+min-width: 600px;
+min-height: 10240px;
+}
+
+.bande3 {
+background-image : url("AxoBande3.jpg");
+background-position: 352px 0px ;
+background-repeat: no-repeat;
+min-width: 600px;
+min-height: 10240px;
+}
+
+.bande4 {
+background-image : url("AxoBande4.jpg");
+background-position: 352px 0px ;
+background-repeat: no-repeat;
+min-width: 600px;
+min-height: 10240px;
+}
+
+.bande5 {
+background-image : url("StoryboardWebtoon5.jpg");
+background-position: 352px 0px ;
+background-repeat: no-repeat;
+min-width: 600px;
+min-height: 10240px;
+}
+
+.bande6 {
+background-image : url("StoryboardWebtoon6.jpg");
+background-position: 352px 0px ;
+background-repeat: no-repeat;
+min-width: 600px;
+min-height: 10240px;
+}
+
+.bande7 {
+background-image : url("StoryboardWebtoon7.jpg");
+background-position: 352px 0px ;
+background-repeat: no-repeat;
+min-width: 600px;
+min-height: 10240px;
+}
+
+.bande8 {
+background-image : url("StoryboardWebtoon8.jpg");
+background-position: 352px 0px ;
+background-repeat: no-repeat;
+min-width: 600px;
+min-height: 10240px;
+}
